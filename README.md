@@ -1,7 +1,5 @@
 Google Homepage Clone
-Demo
 
-A live demo of the Google Homepage Clone can be accessed here.
 Features
 
 The Google Homepage Clone includes the following features:
